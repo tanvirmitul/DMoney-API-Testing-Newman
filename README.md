@@ -16,6 +16,6 @@ node .\report.js
 ```
  - Read the project [Documentation](https://documenter.getpostman.com/view/21091753/2s93CHuEyq).
 
-#### Screenshot of the report generated using newman.
+#### Screenshot of the report generated using newman
 
 ![report using Newman](https://user-images.githubusercontent.com/59876702/222578207-f6f954da-1780-4bfb-8bd1-009e5835e4b9.PNG)
