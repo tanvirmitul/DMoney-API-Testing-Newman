@@ -6,7 +6,7 @@ Automated dmoney API using Postman where test cases are added for Login,Creating
  npm i newman
  ```
  ```
- npx newman run .\collection\Dmoney_Users_collection.json -e -n 1
+ npx newman run .\collection\DmoneyUsers.json
 ```
 ```
 npm i newman-reporter-htmlextra
@@ -18,4 +18,4 @@ node .\report.js
 
 #### Screenshot of the report generated using newman.
 
-![report_using_newman](https://user-images.githubusercontent.com/55280106/175131634-4e09b597-677c-4232-8965-d4788a17fa48.png)
+![report using Newman](https://user-images.githubusercontent.com/59876702/222578207-f6f954da-1780-4bfb-8bd1-009e5835e4b9.PNG)
