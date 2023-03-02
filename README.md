@@ -1,5 +1,5 @@
 ### DMoney-API-Testing-Newman
-Automated dmoney API using Postman where test cases are added for Login,Creating users,Searching users and performed testing for CRUD operations.
+Automated dmoney API using Postman where test cases are added for Login, Creating users, Searching users and performed testing for CRUD operations.
  Steps to run this project:.
  - Give the following commands by opening terminal in the project folder to create newman Report:
  ```
